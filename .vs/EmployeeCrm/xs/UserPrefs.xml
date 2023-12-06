@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{847F221B-48DE-4212-9337-7F79B2280E27}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <DisabledProjects>
+    <String>Infrastructure/EmployeeCrm.Infrastructure/EmployeeCrm.Persistence/EmployeeCrm.Persistence.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Presentation.EmployeeCrm.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/EmployeeCrm.Persistence/Contexts/AppDbContext.cs">
+    <Files>
+      <File FileName="Infrastructure/EmployeeCrm.Persistence/Contexts/AppDbContext.cs" Line="14" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmployeeCrm">
+            <Node name="Core" expanded="True">
+              <Node name="EmployeeCrm.Application" expanded="True">
+                <Node name="Repositories" expanded="True" />
+              </Node>
+              <Node name="EmployeeCrm.Domain" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="EmployeeCrm.Persistence">
+                <Node name="Dependencies" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

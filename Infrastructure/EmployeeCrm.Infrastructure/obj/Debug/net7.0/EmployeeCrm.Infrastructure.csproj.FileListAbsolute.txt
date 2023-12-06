@@ -1,0 +1,12 @@
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Infrastructure/bin/Debug/net7.0/EmployeeCrm.Infrastructure.deps.json
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Infrastructure/bin/Debug/net7.0/EmployeeCrm.Infrastructure.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Infrastructure/bin/Debug/net7.0/EmployeeCrm.Infrastructure.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Infrastructure/obj/Debug/net7.0/EmployeeCrm.Infrastructure.csproj.AssemblyReference.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Infrastructure/obj/Debug/net7.0/EmployeeCrm.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Infrastructure/obj/Debug/net7.0/EmployeeCrm.Infrastructure.AssemblyInfoInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Infrastructure/obj/Debug/net7.0/EmployeeCrm.Infrastructure.AssemblyInfo.cs
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Infrastructure/obj/Debug/net7.0/EmployeeCrm.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Infrastructure/obj/Debug/net7.0/EmployeeCrm.Infrastructure.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Infrastructure/obj/Debug/net7.0/refint/EmployeeCrm.Infrastructure.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Infrastructure/obj/Debug/net7.0/EmployeeCrm.Infrastructure.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Infrastructure/obj/Debug/net7.0/ref/EmployeeCrm.Infrastructure.dll

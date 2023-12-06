@@ -1,0 +1,12 @@
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/bin/Debug/net7.0/EmployeeCrm.Persistence.deps.json
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/bin/Debug/net7.0/EmployeeCrm.Persistence.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/bin/Debug/net7.0/EmployeeCrm.Persistence.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/obj/Debug/net7.0/EmployeeCrm.Persistence.csproj.AssemblyReference.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/obj/Debug/net7.0/EmployeeCrm.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/obj/Debug/net7.0/EmployeeCrm.Persistence.AssemblyInfoInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/obj/Debug/net7.0/EmployeeCrm.Persistence.AssemblyInfo.cs
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/obj/Debug/net7.0/EmployeeCrm.Persistence.csproj.CoreCompileInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/obj/Debug/net7.0/EmployeeCrm.Persistence.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/obj/Debug/net7.0/refint/EmployeeCrm.Persistence.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/obj/Debug/net7.0/EmployeeCrm.Persistence.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/obj/Debug/net7.0/ref/EmployeeCrm.Persistence.dll

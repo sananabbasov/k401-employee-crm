@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i1V30H7s5Z3UYsSuih4DBTIM347lhBo3p6h5owTY8oI=",
+  "Source": "EmployeeCrm.WebApi",
+  "BasePath": "_content/EmployeeCrm.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

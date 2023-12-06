@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NfqxdYtE2aFyua8FHdFJHVp7qotHZN54iTh2vaJYt5JtD1jVlRq18PyXn0OC1YZH6wDOTUkPJohMfkdYJoLsAQ==",
+  "success": true,
+  "projectFilePath": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Domain/EmployeeCrm.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/sanan/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

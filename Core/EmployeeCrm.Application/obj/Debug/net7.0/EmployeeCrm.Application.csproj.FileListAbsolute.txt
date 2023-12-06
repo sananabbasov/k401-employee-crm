@@ -1,0 +1,5 @@
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/obj/Debug/net7.0/EmployeeCrm.Application.csproj.AssemblyReference.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/obj/Debug/net7.0/EmployeeCrm.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/obj/Debug/net7.0/EmployeeCrm.Application.AssemblyInfoInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/obj/Debug/net7.0/EmployeeCrm.Application.AssemblyInfo.cs
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/obj/Debug/net7.0/EmployeeCrm.Application.csproj.CoreCompileInputs.cache
