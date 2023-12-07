@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZYhZ+21hdXuEFyxlIEFNyHLE0nMFgHqSyUAA1ZZR7hLczxnSxK0+WdNMP6J3CR3sBQ5iHv49V2jyAVOZJ3ZNsw==",
+  "dgSpecHash": "BF7m773apQu8hxgEthA2rcZo5UYTP9AHKXlTlaCZ32wDSRh2enEHDH7hcpeEqphk11Yc8upms2E8KrGAlZ9w4Q==",
   "success": true,
   "projectFilePath": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Infrastructure/EmployeeCrm.Infrastructure.csproj",
-  "expectedPackageFiles": [
-    "/Users/sanan/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "/Users/sanan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

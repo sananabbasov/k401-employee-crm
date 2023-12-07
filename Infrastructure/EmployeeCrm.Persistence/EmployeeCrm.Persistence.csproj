@@ -8,14 +8,21 @@
 
   <ItemGroup>
     <None Remove="Contexts\" />
+    <None Remove="Repositories\" />
+    <None Remove="Repositories\Event\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Contexts\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Repositories\Event\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.14" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Core\EmployeeCrm.Domain\EmployeeCrm.Domain.csproj" />
+    <ProjectReference Include="..\..\Core\EmployeeCrm.Application\EmployeeCrm.Application.csproj" />
   </ItemGroup>
 </Project>
