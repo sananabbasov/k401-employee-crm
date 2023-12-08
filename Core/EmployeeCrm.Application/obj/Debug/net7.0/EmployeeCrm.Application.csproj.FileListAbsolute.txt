@@ -3,3 +3,14 @@
 /Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/obj/Debug/net7.0/EmployeeCrm.Application.AssemblyInfoInputs.cache
 /Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/obj/Debug/net7.0/EmployeeCrm.Application.AssemblyInfo.cs
 /Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/obj/Debug/net7.0/EmployeeCrm.Application.csproj.CoreCompileInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/bin/Debug/net7.0/EmployeeCrm.Application.deps.json
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/bin/Debug/net7.0/EmployeeCrm.Application.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/bin/Debug/net7.0/EmployeeCrm.Application.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/bin/Debug/net7.0/EmployeeCrm.Domain.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/bin/Debug/net7.0/EmployeeCrm.Domain.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/obj/Debug/net7.0/EmployeeCrm.Application.sourcelink.json
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/obj/Debug/net7.0/EmployeeCrm.Application.csproj.CopyComplete
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/obj/Debug/net7.0/EmployeeCrm.Application.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/obj/Debug/net7.0/refint/EmployeeCrm.Application.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/obj/Debug/net7.0/EmployeeCrm.Application.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/obj/Debug/net7.0/ref/EmployeeCrm.Application.dll

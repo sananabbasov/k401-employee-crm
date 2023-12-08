@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VVFofyn6Qd6POOzPbGJr5WVQtiub6obcYh6zaeM9qpWcaLkvxFTxp0I2w8zqYaNNzmlz4nglzImTPqIeh1PVfw==",
+  "dgSpecHash": "32+A50Yd0sXoclb+u9OoblmnRde5ZKakRsVzEhKMAskO0E1CYWdTPVOY/1lTnOLx4qBnIFZe2hsP0sv0/UDk/w==",
   "success": true,
   "projectFilePath": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Application/EmployeeCrm.Application.csproj",
   "expectedPackageFiles": [
@@ -14,7 +14,9 @@
     "/Users/sanan/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "/Users/sanan/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "/Users/sanan/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
-    "/Users/sanan/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+    "/Users/sanan/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }

@@ -10,3 +10,11 @@
 /Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/obj/Debug/net7.0/refint/EmployeeCrm.Persistence.dll
 /Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/obj/Debug/net7.0/EmployeeCrm.Persistence.pdb
 /Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/obj/Debug/net7.0/ref/EmployeeCrm.Persistence.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/bin/Debug/net7.0/EmployeeCrm.Application.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/bin/Debug/net7.0/EmployeeCrm.Domain.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/bin/Debug/net7.0/EmployeeCrm.Domain.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/bin/Debug/net7.0/EmployeeCrm.Application.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/obj/Debug/net7.0/EmployeeCrm.Persistence.sourcelink.json
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/obj/Debug/net7.0/EmployeeCrm.Persistence.csproj.CopyComplete
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/bin/Debug/net7.0/EmployeeCrm.Persistence.runtimeconfig.json
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/obj/Debug/net7.0/EmployeeCrm.Persistence.genruntimeconfig.cache
