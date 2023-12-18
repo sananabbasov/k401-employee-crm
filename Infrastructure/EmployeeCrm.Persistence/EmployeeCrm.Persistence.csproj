@@ -10,11 +10,13 @@
     <None Remove="Contexts\" />
     <None Remove="Repositories\" />
     <None Remove="Repositories\Event\" />
+    <None Remove="Services\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Contexts\" />
     <Folder Include="Repositories\" />
     <Folder Include="Repositories\Event\" />
+    <Folder Include="Services\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.14" />
@@ -29,6 +31,8 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.8.1" />
+    <PackageReference Include="FluentValidation" Version="11.8.1" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Core\EmployeeCrm.Domain\EmployeeCrm.Domain.csproj" />

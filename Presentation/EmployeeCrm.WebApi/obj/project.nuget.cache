@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Vqv9Ff1JhcdPi1gJoCoJ4083CjVVcVaUlsMitASm/z+86bjC9sLbx607rqNo9c9mxMiOWzW6V43F2KSkHPrWHQ==",
+  "dgSpecHash": "nzuuZzQWkQ8Ea2Zl0T7YPy2PVOkqOmc7AMzAr4STvE9fRPahD9zg4Fy6gISYgbh52jnxgqQfgyV/AzLbmEp9XQ==",
   "success": true,
   "projectFilePath": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Presentation/EmployeeCrm.WebApi/EmployeeCrm.WebApi.csproj",
   "expectedPackageFiles": [
+    "/Users/sanan/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/fluentvalidation/11.8.1/fluentvalidation.11.8.1.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.8.1/fluentvalidation.dependencyinjectionextensions.11.8.1.nupkg.sha512",
     "/Users/sanan/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/sanan/.nuget/packages/microsoft.entityframeworkcore/7.0.14/microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
     "/Users/sanan/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.14/microsoft.entityframeworkcore.abstractions.7.0.14.nupkg.sha512",
     "/Users/sanan/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.14/microsoft.entityframeworkcore.analyzers.7.0.14.nupkg.sha512",

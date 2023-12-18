@@ -1,7 +1,9 @@
 ﻿using System;
+using EmployeeCrm.Application.Abstraction;
 using EmployeeCrm.Application.Repositories;
 using EmployeeCrm.Persistence.Contexts;
 using EmployeeCrm.Persistence.Repositories;
+using EmployeeCrm.Persistence.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -17,6 +19,8 @@ namespace EmployeeCrm.Persistence
 
             services.AddScoped<IEventReadRepository, EventReadRepository>();
             services.AddScoped<IEventWriteRepository, EventWriteRepository>();
+
+            services.AddScoped<IEventService, EventService>();
 
         }
     }

@@ -9,4 +9,4 @@
 /Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Domain/obj/Debug/net7.0/refint/EmployeeCrm.Domain.dll
 /Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Domain/obj/Debug/net7.0/EmployeeCrm.Domain.pdb
 /Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Domain/obj/Debug/net7.0/ref/EmployeeCrm.Domain.dll
-/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Domain/obj/Debug/net7.0/EmployeeCrm.Domain.sourcelink.json
+/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Core/EmployeeCrm.Domain/obj/Debug/net7.0/EmployeeCrm.Domain.csproj.AssemblyReference.cache

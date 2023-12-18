@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "LP6ND+x/K4pUG+i90uZvIJxMWXmx8Ib18M+6iIBg74yLBGgR67t8Ol4hs6Rm4nQ20tndPhU0YfFtu7Jj3lnH+A==",
+  "dgSpecHash": "T3SIP+o8kt3eQugKukn8sGYzgDDMnceQNR7R5Ls0wWLwa7HeEHg8OU5g7416mJCNgmsPAzPbgdOICc2M4/GOZQ==",
   "success": true,
   "projectFilePath": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Onion Architecture/EmployeeCrm/Infrastructure/EmployeeCrm.Persistence/EmployeeCrm.Persistence.csproj",
   "expectedPackageFiles": [
+    "/Users/sanan/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/fluentvalidation/11.8.1/fluentvalidation.11.8.1.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.8.1/fluentvalidation.dependencyinjectionextensions.11.8.1.nupkg.sha512",
     "/Users/sanan/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/sanan/.nuget/packages/microsoft.entityframeworkcore/7.0.14/microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
     "/Users/sanan/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.14/microsoft.entityframeworkcore.abstractions.7.0.14.nupkg.sha512",
     "/Users/sanan/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.14/microsoft.entityframeworkcore.analyzers.7.0.14.nupkg.sha512",
@@ -32,9 +37,7 @@
     "/Users/sanan/.nuget/packages/npgsql.entityframeworkcore.postgresql/7.0.11/npgsql.entityframeworkcore.postgresql.7.0.11.nupkg.sha512",
     "/Users/sanan/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
     "/Users/sanan/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
-    "/Users/sanan/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
-    "/Users/sanan/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "/Users/sanan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+    "/Users/sanan/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
