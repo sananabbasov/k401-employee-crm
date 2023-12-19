@@ -1,32 +1,33 @@
 ﻿<Properties StartupConfiguration="{847F221B-48DE-4212-9337-7F79B2280E27}|https">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Presentation.EmployeeCrm.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Core/EmployeeCrm.Application/Abstraction/IEventService.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Presentation.EmployeeCrm.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Presentation/EmployeeCrm.WebApi/appsettings.json">
     <Files>
       <File FileName="Infrastructure/EmployeeCrm.Persistence/Contexts/AppDbContext.cs" />
-      <File FileName="Infrastructure/EmployeeCrm.Persistence/Services/EventService.cs" Line="14" Column="40" />
-      <File FileName="Presentation/EmployeeCrm.WebApi/Controllers/EventController.cs" Line="33" Column="14" />
-      <File FileName="Core/EmployeeCrm.Application/AutoMapper/MappingProfile.cs" Line="1" Column="1" />
-      <File FileName="Core/EmployeeCrm.Domain/Entities/Event.cs" Line="3" Column="19" />
-      <File FileName="Core/EmployeeCrm.Application/Validations/EventValidation/RegisterEventValidation.cs" Line="11" Column="130" />
-      <File FileName="Presentation/EmployeeCrm.WebApi/Program.cs" Line="26" Column="45" />
-      <File FileName="Core/EmployeeCrm.Application/DependencyResolver/ServiceRegistration.cs" Line="17" Column="14" />
-      <File FileName="Core/EmployeeCrm.Application/Exceptions/EventException/EventNotValidatedException.cs" Line="20" Column="1" />
-      <File FileName="Core/EmployeeCrm.Application/Responses/ISuccessResult.cs" Line="1" Column="1" />
-      <File FileName="Core/EmployeeCrm.Application/Responses/Result.cs" Line="18" Column="4" />
-      <File FileName="Core/EmployeeCrm.Application/Abstraction/IEventService.cs" Line="14" Column="1" />
+      <File FileName="Infrastructure/EmployeeCrm.Persistence/Services/EventService.cs" />
+      <File FileName="Presentation/EmployeeCrm.WebApi/Controllers/EventController.cs" />
+      <File FileName="Core/EmployeeCrm.Application/AutoMapper/MappingProfile.cs" />
+      <File FileName="Core/EmployeeCrm.Domain/Entities/Event.cs" />
+      <File FileName="Core/EmployeeCrm.Application/Validations/EventValidation/RegisterEventValidation.cs" />
+      <File FileName="Presentation/EmployeeCrm.WebApi/Program.cs" />
+      <File FileName="Core/EmployeeCrm.Application/DependencyResolver/ServiceRegistration.cs" />
+      <File FileName="Core/EmployeeCrm.Application/Exceptions/EventException/EventNotValidatedException.cs" />
+      <File FileName="Core/EmployeeCrm.Application/Responses/Result.cs" />
+      <File FileName="Core/EmployeeCrm.Application/Abstraction/IEventService.cs" Line="6" Column="2" />
+      <File FileName="Presentation/EmployeeCrm.WebApi/appsettings.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="EmployeeCrm" expanded="True">
-            <Node name="Core" expanded="True" selected="True">
-              <Node name="EmployeeCrm.Application" expanded="True">
-                <Node name="Responses" expanded="True" />
-                <Node name="Validations" expanded="True">
-                  <Node name="EventValidation" expanded="True" />
-                </Node>
+          <Node name="EmployeeCrm">
+            <Node name="Presentation" expanded="True">
+              <Node name="EmployeeCrm.WebApi" expanded="True">
+                <Node name="appsettings.json" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -37,8 +38,4 @@
   <DisabledProjects>
     <String>Infrastructure/EmployeeCrm.Infrastructure/EmployeeCrm.Persistence/EmployeeCrm.Persistence.csproj</String>
   </DisabledProjects>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
